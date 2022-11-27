@@ -12,8 +12,6 @@ pandas = "^1.5.2"
 spacy = {extras = ["transformers"], version = "^3.4.3"}
 google-colab = {git = "https://github.com/googlecolab/colabtools.git"}
 jupyter-http-over-ws = "^0.0.8"
-psutil = "^5.9.4"
-httplib2 = "^0.21.0"
 
 [build-system]
 requires = ["poetry-core"]
